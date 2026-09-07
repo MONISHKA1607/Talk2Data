@@ -17,8 +17,6 @@ pinned: false
 
 A powerful, conversational analytics system that empowers anyone to ask plain-English questions about uploaded datasets (CSV/Excel) or live SQL databases and receive clear, actionable answers along with auto-generated charts.
 
-Built for the **NatWest Group Code for Purpose – India Hackathon**.
-
 ---
 
 ## 📖 Overview
