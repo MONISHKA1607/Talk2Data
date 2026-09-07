@@ -1,0 +1,34 @@
+# Core
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+# Data
+pandas
+numpy
+openpyxl
+
+# LangChain + Gemini
+langchain
+langchain-core
+langchain-google-genai
+langchain-community
+sqlalchemy
+mysql-connector-python
+# Data Science
+scikit-learn
+statsmodels
+python-dateutil
+
+# Config
+pyyaml
+python-dotenv
+
+matplotlib
+SQLAlchemy
+validators
+langserve
+pymongo
+pymysql
+passlib[bcrypt]
+python-jose
